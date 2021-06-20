@@ -8,6 +8,10 @@ existing in current directory at the moment."
 
 sleep 5
 
+echo ""
+echo "Remenber you can leave program at any time by pressing ctrl+c"
+echo ""
+
 function tryagain {
  echo "Please type a number and press enter..."
  read response
@@ -34,7 +38,7 @@ function tryagain {
 		fi
 	else
 
-		echo "don't bother me with such a thing please, you now what to do..."
+		echo "don't bother me with such a thing please, you know what to do..."
 		tryagain
 	fi
  done
