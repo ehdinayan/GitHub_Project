@@ -9,7 +9,7 @@ existing in current directory at the moment."
 sleep 5
 
 echo ""
-echo "Remenber you can leave program at any time by pressing ctrl+c"
+echo "Remember you can leave program at any time by pressing ctrl+c"
 echo ""
 
 function tryagain {
